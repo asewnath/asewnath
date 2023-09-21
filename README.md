@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🌎 Software engineer at NASA's Global Modeling and Assmilation Office (GMAO)
+- 🌎 [Software engineer](https://science.gsfc.nasa.gov/sed/bio/akira.sewnath) at NASA's Global Modeling and Assmilation Office (GMAO)
 - 📚 Philosophy enthusiast
 
 ## For fun
