@@ -9,7 +9,7 @@
 - ☁ Typology experiment with GOES data: [GOES Type](https://asewnath.github.io/goes_type/)
 
 ## Contact
-[![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akira-sewnath-1bbb26105)
+[![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akira-sewnath-1bbb26105/)
 
 <!--
 **asewnath/asewnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
