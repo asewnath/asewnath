@@ -1,6 +1,6 @@
 # Akira Sewnath ☕ 🌲
 
-"The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility" - E.W.Dijkstra
+"The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility" -Dijkstra
 
 ## About me
 
