@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🌎 Software engineer at the Global Modeling and Assmilation Office (GMAO)
+- 🌎 Software engineer at NASA's Global Modeling and Assmilation Office (GMAO)
 - 📚 Philosophy enthusiast
 
 ## For fun
