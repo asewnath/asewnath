@@ -5,6 +5,9 @@
 - 🌎 Software engineer at the Global Modeling and Assmilation Office (GMAO)
 - 📚 Philosophy enthusiast
 
+## For fun
+- ☁ Typology experiment with GOES data: [GOES Type](https://asewnath.github.io/goes_type/)
+
 <!--
 **asewnath/asewnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
