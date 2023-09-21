@@ -1,7 +1,9 @@
-### Akira Sewnath
+# Akira Sewnath ☕ 🌲
+
+## About me
 
 - 🌎 Software engineer at the Global Modeling and Assmilation Office (GMAO)
-
+- 📚 Philosophy enthusiast
 
 <!--
 **asewnath/asewnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
