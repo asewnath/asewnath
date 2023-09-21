@@ -1,4 +1,7 @@
-### Hi there 👋
+### Akira Sewnath
+
+- 🌎 Software engineer at the Global Modeling and Assmilation Office (GMAO)
+
 
 <!--
 **asewnath/asewnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
