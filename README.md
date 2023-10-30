@@ -4,7 +4,7 @@
 
 ## About me
 
-- 👩‍🎓 Computer engineering degree from University of Florida
+- 👩‍🎓 Computer engineering from University of Florida
 - 🌎 [Software engineer](https://science.gsfc.nasa.gov/sed/bio/akira.sewnath) at NASA's Global Modeling and Assmilation Office (GMAO)
 - 📚 Philosophy enthusiast
 
