@@ -9,7 +9,7 @@
 - 📚 Philosophy enthusiast
 
 ## For fun
-- ☁ Typology experiment with GOES data: [GOES Type](https://asewnath.github.io/goes_type/)
+- ☁ Typography experiment with GOES data: [GOES Type](https://asewnath.github.io/goes_type/)
 - 🤝 SSAI Interview: [Learn more about me!](https://www.ssaihq.com/news/-/articles/meet-akira-sewnath?backURL=https%3A%2F%2Fwww.ssaihq.com%2Fnews%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uvyc%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview)
 - 🧊 I participated in the Sea Ice Outlook in 2019: [Check out my predictions!](https://www.arcus.org/sipn/sea-ice-outlook/2019/august)
 
