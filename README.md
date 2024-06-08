@@ -9,8 +9,7 @@
 - 📚 Philosophy enthusiast
 
 ## For fun
-- ☁ Typography experiment with GOES data: [GOES Type](https://asewnath.github.io/goes_type/)
-- 🧊 I participated in the Sea Ice Outlook in 2019: [Check out my predictions!](https://www.arcus.org/sipn/sea-ice-outlook/2019/august)
+- 🥧 [Want to memorize some π?](https://pi-memorizer.netlify.app/)
 
 ## Contact
 [![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akira-sewnath-1bbb26105/)
