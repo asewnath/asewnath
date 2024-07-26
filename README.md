@@ -6,7 +6,7 @@
 
 - 👩‍🎓 Computer engineering from University of Florida
 - 🌎 [Software engineer](https://science.gsfc.nasa.gov/sed/bio/akira.sewnath) at NASA's Global Modeling and Assmilation Office (GMAO)
-- 📚 Philosophy at University of New Orleans
+- 📚 Philosophy enthusiast
 
 ## For fun
 - 🥧 [Want to memorize some π?](https://pi-memorizer.netlify.app/)
