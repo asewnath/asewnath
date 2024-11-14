@@ -4,11 +4,11 @@
 
 ## About me
 
-- 👩‍🎓 Computer engineering from University of Florida
-- 📚 Philosophy @ University of New Orleans
+- Computer engineering from University of Florida
+- Philosophy at University of New Orleans
 
 ## For fun
-- 🥧 [Want to memorize some π?](https://pi-memorizer.netlify.app/)
+- [Want to memorize some π?](https://pi-memorizer.netlify.app/)
 
 ## Contact
 [![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akira-sewnath-1bbb26105/)
