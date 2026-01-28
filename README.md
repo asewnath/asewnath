@@ -5,6 +5,7 @@
 ## About me
 
 - Computer engineering from University of Florida
+- Philosophy and fiber arts
 
 ## For fun
 - [Want to memorize some π?](https://pi-memorizer.netlify.app/)
